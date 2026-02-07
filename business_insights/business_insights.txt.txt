@@ -1,0 +1,17 @@
+ZOMATO DASHBOARD – KEY INSIGHTS
+
+1️.Restaurant Concentration Across Cities
+
+The analysis shows that restaurant presence on Zomato is heavily concentrated in metro cities. This indicates stronger urban demand driven by higher population density, greater disposable income, and well-developed food delivery infrastructure. Non-metro cities show comparatively lower restaurant density, suggesting potential growth opportunities as digital food adoption increases.
+
+2️.Cuisine Popularity and Pricing Behavior
+
+Popular cuisines contribute the highest number of restaurant listings, reflecting mass consumer preference and widespread availability. In contrast, premium and niche cuisines exhibit higher average costs for two, highlighting their positioning toward a more affluent customer segment. This demonstrates a clear relationship between cuisine type and pricing strategy across restaurants.
+
+3️.Online Delivery vs Table Booking Adoption
+
+The dashboard reveals that online delivery is significantly more adopted than table booking. This trend highlights a shift in customer behavior toward convenience-based dining and on-demand food services. Restaurants increasingly prioritize delivery capabilities to remain competitive, while table booking is more common among fine-dining establishments.
+
+4️.Customer Ratings and Engagement Relationship
+
+Restaurants with higher aggregate ratings tend to receive a greater number of customer votes, indicating a positive relationship between quality perception and customer engagement. This suggests that well-rated restaurants not only deliver better experiences but also attract more visibility and interactions on the platform, reinforcing their market position.
